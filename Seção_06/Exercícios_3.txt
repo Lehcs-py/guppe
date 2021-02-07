@@ -1,0 +1,168 @@
+1. Faça um programa que determine o mostre os cinco primeiros múltiplos de 3, considerando números maiores que 0.
+
+2. Escreva um programa que escreva na tela, de 1 até 100, de 1 em 1, 3 vezes. A primeira vez deve usar a estrutura de repetição for, a segunda while, e a terceira do while.
+
+3. Faça um algoritmo utilizando o comando while que mostra uma contagem regressiva na tela, iniciando em 10 e terminando em 0. Mostrar uma mensagem "FIM!" após a contagem.
+
+4. Escreva um programa que declare um inteiro, inicialize-o com 0, e incremente-o de 1000 em 1000, imprimindo seu valor na tela, até que seu valor seja 100000 (cem mil).
+
+5. Faça um programa que peça ao usuário para digitar 10 valores e some-os.
+
+6. Faça um programa que leia 10 inteiros e imprima sua média.
+
+7. Faça um programa que leia 10 inteiros positivos, ignorando não positivos, e imprima sua média.
+
+8. Escreva um programa que leia 10 números e escreva o menor valor lido e o maior valor lido.
+
+9. Faça um programa que leia um número inteiro N e depois imprima os N primeiros números naturais ímpares.
+
+10. Faça um programa que calcule e mostre a soma dos 50 primeiros números pares.
+
+11. Faça um programa que leia um número inteiro positivo N e imprima todos os números naturais de 0 até N em ordem crescente.
+
+12. Faça um programa que leia um número inteiro positivo N e imprima todos os números naturais de 0 até N em ordem decrescente.
+
+13. Faça um programa que leia um número inteiro positivo par N e imprima todos os números pares de 0 até N em ordem crescente.
+
+14. Faça um programa que leia um número inteiro positivo par N e imprima todos os números pares de 0 até N em ordem decrescente.
+
+15. Faça um programa que leia um número inteiro positivo ímpar N e imprima todos os números ímpares de 1 até N em ordem crescente.
+
+16. Faça um programa que leia um número inteiro positivo ímpar N e imprima todos os números ímpares de 1 até N em ordem decrescente.
+
+17. Faça um programa que leia um número inteiro positivo N e calcule a soma dos N primeiros números naturais.
+
+18. Escreva um algoritmo que leia certa quantidade de números e imprima o maior deles e quantas vezes o maior número foi lido. A quantidade de números a serem lidos deve ser fornecida pelo usuário.
+
+19. Escreva um algoritmo que leia um número inteiro entre 100 e 999 e imprima na saída cada um dos algarismos que compõem o número.
+
+20. Ler uma sequência de números inteiros e determinar se eles são pares ou não. Deverá ser informado o número de dados lidos e número de valores pares. O processo termina quando for digitado o número 1000.
+
+21. Faça um programa que receba dois números. Calcule e mostre:
+	• a soma dos números pares desse intervalo de números, incluindo os números digitados;
+	• a multiplicação dos números ímpares desse intervalo, incluindo os digitados;
+
+22. Escreva um programa completo que permita a qualquer aluno introduzir, pelo teclado, uma sequência arbitrária de notas (válidas no intervalo de 10 a 20) e que mostre na tela, como resultado, a correspondente média aritmética. O número de notas com que o aluno pretenda efetuar o cálculo não será
+fornecido ao programa, o qual terminará quando for introduzido um valor que não seja válido como nota de aprovação.
+
+23. Faca um algoritmo que leia um número positivo e imprima seus divisores.
+
+24. Escreva um programa que leia um número inteiro e calcule a soma de todos os divisores desse número, com exceção dele próprio. Ex: a soma dos divisores do número 66 é 1 + 2 + 3 + 6 + 11 + 22 + 33 = 78
+
+25. Faça um programa que some todos os números naturais abaixo de 1000 que são múltiplos de 3 ou 5.
+
+26. Faca um algoritmo que encontre o primeiro múltiplo de 11, 13 ou 17 após um número dado.
+
+27. Em Matemática, o número harmônico designado por H (n) define-se como sendo a soma da série harmônica:
+	H(n) = 1 + 1/2 + 1/3 + 1/4 + ... +1/n
+Faça um programa que leia um valor n inteiro e positivo e apresente o valor de H(n).
+
+28. Faça um programa que leia um valor N inteiro e positivo, calcule o mostre o valor E, conforme a fórmula a seguir
+	E = 1+ 1/1! + 1/2! + 1/3! + ... + 1/N!
+
+29. Escreva um programa para calcular o valor da série, para 5 termos.
+	S = 0 + 1/2! + 2/4! +3/6! + ...
+
+30. Faça programas para calcular as seguintes sequências:
+	1 + 2 + 3 + 4 + 5 + ... + n
+	1 - 2 + 3 - 4 + 5 + ... + (2n – 1)
+	1 + 3 + 5 + 7 + ... + (2n - 1)
+
+31. Faça um programa que calcule e escreva o valor de S
+	S = 1/1 + 3/2 + 5/3 7/4 ... 99/50
+
+32. Faça um programa que simula o lançamento de dois dados, d1 e d2, n vezes, e tem como saída o número de cada dado e a relação entre eles (>,<,=) de cada lançamento.
+
+33. Dados n e dois números inteiros positivos, i e j, diferentes de 0, imprimir em ordem crescente os n primeiros naturais que são múltiplos de i ou de j e ou de ambos. Exemplo: Para n = 6, i = 2 ej = 3 a saída deverá ser: 0, 2, 3, 4, 6, 8.
+
+34. Faça um programa que calcule o menor número divisível por cada um dos números de 1 a 20? Ex: 2520 é o menor número que pode ser dividido por cada um dos números de 1 a 10, sem sobrar resto.
+
+35. Faça um programa que some os números impares contidos em um intervalo definido pelo usuário. O usuário define o valor inicial do intervalo e o valor final deste intervalo e o programa deve somar todos os números ímpares contidos neste intervalo. Caso o usuário digite um intervalo inválido (começando por um valor maior que o valor final) deve ser escrito uma mensagem de erro na tela, "Intervalo de valores inválido" e o programa termina. Exemplo de tela de saída:
+	Digite o valor inicial e valor final: 5 10
+	Soma dos ímpares neste intervalo: 21
+
+36. Faça um programa que calcule a diferença entre a soma dos quadrados dos primeiros 100 números naturais e o quadrado da soma. Ex: A soma dos quadrados dos dez primeiros números naturais é,
+	1² + 2² +... + 10² = 385
+O quadrado da soma dos dez primeiros números naturais é,
+	(1 + 2 + .. + 10)² = 552 = 3025
+A diferença entre a soma dos quadrados dos dez primeiros números naturais e o quadrado da soma é 3025 - 385 = 2640.
+
+37. Escreve um programa que verifique quais números entre 1000 e 9999 (inclusive) possuem a propriedade seguinte: a soma dos dois dígitos de mais baixa ordem com os dois dígitos de mais alta ordem elevada ao quadrado é igual ao próprio numero. Por exemplo, para o inteiro 3025, temos que:
+	30 + 25 = 55
+	55² = 3025
+
+38. Faça um programa que calcule o terno pitagórico a, b, c, para o qual a+b+c = 1000. Um terno pitagórico é um conjunto de três números naturais, a, b, c, para a qual,
+	a² + b² = c²
+Por exemplo,
+	3² + 4² = 9 + 16 = 25 = 5²
+
+39. Faça um programa que calcule a área de um triângulo, cuja base e altura são fornecidas pelo usuário. Esse programa não pode permitir a entrada de dados inválidos, ou seja, medidas menores ou iguais a 0.
+
+40. Elabore um programa que faça leitura de vários números inteiros, até que se digite um número negativo. O programa tem que retornar o maior e o menor número lido.
+
+41. Faça um programa que calcula a associação em paralelo de dois resistores R1 e R2 fornecidos pelo usuário via teclado. O programa fica pedindo estes valores e calculando até que o usuário entre com um valor para resistência igual a zero.
+	R = (R1 * R2)/(R1 + R2)
+
+42. Faça um programa que leia um conjunto não determinado de valores, um de cada vez, e escreva para cada um dos valores lidos, o quadrado, o cubo e a raiz quadrada. Finalize a entrada de dados com um valor negativo ou zero.
+
+43. Faça um programa que leia um número indeterminado de idades de indivíduos (pare quando for informada a idade 0), e calcule a idade média desse grupo.
+
+44. Leia um número positivo do usuário, então, calcule e imprima a sequência Fibonacci até o primeiro número superior ao número lido. Exemplo: se o
+usuário informou o número 30, a sequência a ser impressa será 0 1 1 2 35 8 13 21 34.
+
+45. Faça um algoritmo que converta uma velocidade expressa em km/h para m/s e vice versa. Você deve criar um menu com as duas opções de conversão e
+com uma opção para finalizar o programa. O usuário poderá fazer quantas conversões desejar, sendo que o programa só será finalizado quando a opção de finalizar for escolhida.
+
+46. Faça um programa que gera um número aleatório de 1 a 1000. O usuário deve tentar acertar qual o número foi gerado, a cada tentativa o programa deverá informar se o chute é menor ou maior que o número gerado. O programa acaba quando o usuário acerta o número gerado. O programa deve informar em quantas tentativas o número foi descoberto.
+
+47. Faça um programa que apresente um menu de opções para o cálculo das seguintes operações entre dois números:
+    • adição (opção 1)
+    • subtração (opção 2)
+    • multiplicação (opção 3)
+    • divisão (opção 4)
+    • saída (opção 5)
+O programa deve possibilitar ao usuário a escolha da operação desejada, a exibição do resultado e a volta ao menu de opções. O programa só termina quando for escolhida a opção de saída (opção 5).
+
+48. Faça um programa que some os termos de valor par da sequência de Fibonacci, cujos valores não ultrapassem quatro milhões.
+
+49. O funcionário chamado Carlos tem um colega chamado João que recebe um salário que equivale a um terço do seu salário. Carlos gosta de fazer aplicações na caderneta de poupança e vai aplicar seu salário integralmente nela, pois está rendendo 2% ao mês. João aplicará seu salário integralmente no fundo de renda fixa, que está rendendo 5% ao mês. Construa um programa que deverá calcular e mostrar a quantidade de meses necessários para que o valor pertencente a João iguale ou ultrapasse o valor pertencente a Carlos. Teste com outros valores para as taxas.
+
+50. Chico tem 1.50 metro e cresce 2 centímetros por ano, enquanto Zé tem 1.10 metros e cresce 3 centímetros por ano. Escreva um programa que calcule e imprima quantos anos serão necessários para que Zé seja maior que Chico.
+
+51. Um funcionário recebe aumento anual. Em 1995 foi contratado por 2000 reais. Em 1996 recebeu aumento de 1.5%. A partir de 1997, os aumentos sempre correspondem ao dobro do ano anterior. Faça programa que determine o salário atual do funcionário.
+
+52. Escreva um programa que receba como entrada o valor do saque realizado pelo cliente de um banco e retorne quantas notas de cada valor serão necessárias para atender ao saque com a menor quantidade de notas possível. Serão utilizadas notas de 100, 50, 20, 10, 5, 2 e 1 real.
+
+53. Escreva um programa que leia um número inteiro positivo n e em seguida imprima n linhas do chamado Triangulo de Floyd. Para n = 6, temos:
+1
+2 3
+4 5 6
+7 8 9 10
+11 12 13 14 15
+16 17 18 19 20 21
+
+54. Faça um programa que receba um número inteiro maior do que 1, e verifique se o número fornecido é primo ou não.
+
+55. Escreva um programa que leia um inteiro não negativo  n e imprima a soma dos n primeiros números primos.
+
+56. Faça um programa que calcule a soma de todos os números primos abaixo de dois milhões.
+
+57. Faça um programa que conte quantos números primos existem entre a e b, onde a e b são números informados pelo usuário.
+
+58. Faça um programa que some os números primos existentes entre a e b, onde a e b são números informados pelo usuário.
+
+59. Escreva um programa que leia o número de habitantes de uma determinada cidade, o valor do km/h, e para cada habitante entre com os seguintes
+dados: consumo do mês e o código do consumidor (1-Residencial, 2-Comercial, 3-Industrial). No final imprima o maior, o menor e a média do consumo dos habitantes; e por fim o total do consumo de cada categoria de consumidor.
+
+60. Faça um programa que leia vários números, calcule e mostre:
+    (a) A soma dos números digitados
+    (b) A quantidade de números digitados
+    (c) A média dos números digitados
+    (d) O maior número digitado
+    (e) O menor número digitado
+    (f) A média dos números pares
+Finalize a entrada de dados caso o usuário informe o valor 0.
+
+61. Faça um programa que calcule o maior número palíndromo feito a partir do produto de dois números de 3 dígitos. Ex: O maior palíndromo feito a partir do produto de dois números de dois dígitos é 9009 = 91 * 99.
+
+62. Se os números de 1 a 5 são escritos em palavras: um, dois, três, quatro, cinco, então há 2 + 4 + 4 + 6 + 5 = 22 letras usadas no total. Faça um programa que conte quantas letras seriam utilizadas se todos os números de 1 a 1000 (mil) fossem escritos em palavras. OBS: Não conte espaços ou hifens.
